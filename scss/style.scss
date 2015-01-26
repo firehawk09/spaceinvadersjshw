@@ -48,4 +48,8 @@ img {max-width:100;}
 
 body {
     transition: opacity .25s ease;
+    canvas {
+        width: 310px;
+        height: 310px;
+    }
 }
